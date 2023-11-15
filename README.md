@@ -17,7 +17,7 @@ assignments/
 │   ├── a*.c (Contains the source code for Assignment)
 │   ├── docs/
 │   │   └── (if any documentation needed related to assignment)
-│   └── README.md (if any specific instructions or notes are for Assignment)
+│   └── README.md (if any specific instructions or notes needed for Assignment)
 ```
 ## Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
